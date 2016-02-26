@@ -1,0 +1,21 @@
+
+/***/
+.chat-container{
+  padding: 0 !important;
+}
+
+.chat-container .chat-messages{
+  overflow:auto;
+  height:100px
+}
+
+  .chat-container .chat-messages ul{
+    margin:0;
+    padding:0;
+  }
+
+    .chat-container .chat-messages ul li{
+      display:block;
+      margin:0;
+      padding:2px;
+    }
